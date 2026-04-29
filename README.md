@@ -17,6 +17,3 @@ Save images, links and notes in beautiful visual boards. Tag and search your col
 cd backend && copy .env.example .env && npm install && npm run dev
 cd frontend && npm install && npm start
 ```
-
-## License
-MIT — Kenza Nabaghi
